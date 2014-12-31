@@ -1,0 +1,28 @@
+{
+    "name": "ryanrobertsname/roxy-fileman-php",
+    "description": "Port of fileman for php, from roxyfileman.com",
+    "homepage": "http://roxyfileman.com",
+    "keywords": ["roxy", "fileman"],
+    "license": "GPL v3",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/ryanrobertsname/roxy-fileman-php.git"
+        }
+    ],
+    "authors": [
+    ],
+    "support": {
+    },
+    "require": {
+        "php": ">=5.3.0",
+    },
+    "require-dev": {
+    },
+    "autoload": {
+
+    },
+    "scripts": {
+       
+    }
+}
